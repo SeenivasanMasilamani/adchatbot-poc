@@ -1,2 +1,0 @@
-# adchatbot-poc
-Test
